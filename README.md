@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm Adam, a passionate developer specializing in Android apps, machine learning, and full-stack development. Check out my projects below!
+  I'm Adam, a passionate developer. Check out my projects below!
 </p>
 
 <div align="center">
