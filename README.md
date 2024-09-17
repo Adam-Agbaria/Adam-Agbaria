@@ -31,6 +31,10 @@
       <h3>📱 <a href="https://github.com/Adam-Agbaria/Permission-Manager-Library" target="_blank">Permissions Manager</a></h3>
       <p>An Android library to dynamically handle app permissions and updates in real-time.</p>
     </td>
+        <td>
+      <h3>📱 <a href="https://github.com/Adam-Agbaria/AWS-Website" target="_blank">AWS Resume Website</a></h3>
+      <p>This project provides a serverless solution for deploying a fully responsive resume website using AWS services.</p>
+    </td>
   </tr>
 </table>
 
